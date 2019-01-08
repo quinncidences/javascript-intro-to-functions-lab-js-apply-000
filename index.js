@@ -10,8 +10,6 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase)
 }
-var  = "I can't hear you!"
- 
 if (string === .toLowerCase) {
   console.log("Refilling food bowl.")
 } else {
