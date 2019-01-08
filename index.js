@@ -10,7 +10,7 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase)
 }
-var  = "satisfied"
+var sayHiToGrandma(string) = "satisfied"
  
 if (dog === "hungry") {
   console.log("Refilling food bowl.")
