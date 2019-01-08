@@ -12,4 +12,6 @@ function logWhisper(string) {
 }
 if (string = .toUpperCase) {
   console.log(string)
+} else {
+  
 }
