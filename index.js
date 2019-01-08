@@ -10,9 +10,9 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase)
 }
-var sayHiToGrandma(string) = "satisfied"
+var sayHiToGrandma(string) = "I can't hear you!"
  
-if (dog === "hungry") {
+if (string === .toLowerCase) {
   console.log("Refilling food bowl.")
 } else {
   console.log("Reading newspaper.")
